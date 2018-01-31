@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Dataprov {
-
+  //sample using dataprovider
 	@Test
 	public void eMICalculatorDataDrivenScript() throws InterruptedException
 	{
